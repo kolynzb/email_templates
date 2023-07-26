@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "mrmlnc.vscode-pugbeautify",
+      "streetsidesoftware.code-spell-checker",
+      "codeSTACKr.superhero-extensions",
+      "esbenp.prettier-vscode"
+    ]
+  }
